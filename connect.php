@@ -1,9 +1,9 @@
 <?php
 
 
-$db = 'auth';
-$username = 'osama';
-$password = 'osamaisthebest';
+$db = 'dbname';
+$username = 'username';
+$password = 'password';
 $server = 'localhost';
 
 
